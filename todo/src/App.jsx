@@ -1,8 +1,10 @@
+import Header from './components/Header'
+
 function App() {
   return (
     <div className="container">
-      <h1>To Do List</h1>
- 
+      <Header />
+     
     </div>
   );
 }
