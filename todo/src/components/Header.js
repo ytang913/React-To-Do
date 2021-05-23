@@ -15,12 +15,8 @@ Header.defaultProps = {
      title: 'To Do List',
  }
 
- Header.proptypes = {
-     title: PropTypes.string.isRequired
+Header.propTypes = {
+     title: PropTypes.string.isRequired,
     
 }
-
-// const headingStyle = {
-//     color: 'red', backgroundColor: 'black'
-// }
 export default Header
