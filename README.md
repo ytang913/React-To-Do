@@ -12,3 +12,6 @@ Backend using JSON server
 Frontend is React 
 
 React Props and Hooks.
+
+
+toggle reminder false or true
