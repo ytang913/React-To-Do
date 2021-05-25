@@ -26,6 +26,10 @@ const App = () => {
         reminder: 'false',
     }
 ])
+// Add Task
+const AddTask = (id) => {
+  console.log("object")
+}
 
 // Delete Task 
 const deleteTask = (id) => {
