@@ -47,7 +47,7 @@ const toggleReminder = (id) => {
 }
 
   return (
-    <div className="container">
+    <div className= "container">
       <Header onAdd = {() => setShowAddTask(!showAddTask)} /> 
       {showAddTask && <AddTask onAdd = {addTask}/>}
 
