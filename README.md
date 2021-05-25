@@ -15,3 +15,5 @@ React Props and Hooks.
 
 
 toggle reminder false or true
+
+double click the task and it will change the state which is toggling
