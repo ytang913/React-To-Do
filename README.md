@@ -6,25 +6,13 @@ This project is essentially is a to do list
 
 The user can add tasks by typing in the name of the task and the date and time they want to accomplish it
 
+The user can also delete the task just by simply clicking on the 'x' in the list
 
+If the user wants to prioritize a specific task they can simply double click on a task to toggle it. The user can also click on "set reminder" when they are adding a task onto the list.
 
 # Documentation
 This project was built using React.JS 
 
-There are multiple tasks users can do are add task, delete task, and toggle reminders.
+HTML is used for the title of the project while CSS is used for the overal design of the To Do List
 
-These tasks are done using React Props and React Hooks
-
-
-
-React Props and Hooks.
-
-
-toggle reminder false or true
-
-double click the task and it will change the state which is toggling. The green border will go away
-
-
-The form will call onAdd function 
-
-and if nothing is there the 
+The functionality of the To Do List is built using React Props, React Hooks, and JavaScript.
