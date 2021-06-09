@@ -16,7 +16,7 @@ const Header = ({ title, onAdd }) => {
 }
 
 Header.defaultProps = {
-     title: 'To Do List',
+     title: 'React To Do',
  }
 
 Header.propTypes = {
