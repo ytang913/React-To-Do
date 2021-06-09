@@ -16,3 +16,5 @@ This project was built using React.JS
 HTML is used for the title of the project while CSS is used for the overal design of the To Do List
 
 The functionality of the To Do List is built using React Props, React Hooks, and JavaScript.
+
+To run the application the user must type in npm start in the terminal.
