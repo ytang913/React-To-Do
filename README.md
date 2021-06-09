@@ -22,11 +22,11 @@ The functionality of the To Do List is built using React Props, React Hooks, and
 To run the application the user must type in npm start in the terminal.
 
 # Result when the user starts the application
-![](images/)
+![](images/thumbnail.jpg)
 # Result when the user adds a task 
-![](images/)
+![](images/addingTask.jpg)
 # Result when the user adds a task with the reminder clicked
-![](images/)
+![](images/toggleRemind.jpg)
 # Result when the user deletes a task
 ![](images/)
 # Result when the user presses submit without adding any task
