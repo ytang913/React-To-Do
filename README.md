@@ -28,6 +28,6 @@ To run the application the user must type in npm start in the terminal.
 # Result when the user adds a task with the reminder clicked
 ![](images/toggleRemind.jpg)
 # Result when the user deletes a task
-![](images/)
+![](images/delete.jpg)
 # Result when the user presses submit without adding any task
 ![](images/) 
