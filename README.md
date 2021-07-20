@@ -8,14 +8,14 @@ The user can add tasks by typing in the name of the task and the date and time t
 
 The user can also delete the task just by simply clicking on the 'x' in the list
 
-If the user wants to prioritize a specific task they can simply double click on a task to toggle it. The user can also click on "set reminder" when they are adding a task onto the list.
+If the user wants to prioritize a specific task they can simply double-click on a task to toggle it. The user can also click on "set reminder" when they are adding a task onto the list.
 
-If the user does not enter anything but clicks on submit they will recieve a message asking them to add a task.
+If the user does not enter anything but clicks on submit they will receive a message asking them to add a task.
 
 # Documentation
 This project was built using React.JS 
 
-HTML is used for the title of the project while CSS is used for the overal design of the To Do List
+HTML is used for the title of the project while CSS is used for the overall design of the To Do List
 
 The functionality of the To Do List is built using React Props, React Hooks, and JavaScript.
 
